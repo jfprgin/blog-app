@@ -1,4 +1,6 @@
-"# blog-app"
+
+# Blog App tutorail
+
 Needed to start: 
 npm install -g yarn
 yarn add react-router-dom
